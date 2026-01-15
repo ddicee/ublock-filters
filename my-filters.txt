@@ -31,5 +31,6 @@ www.huya.com##.huya-ab
 
 ! Jan 1, 2026 https://www.huya.com
 www.huya.com##.room-gg-top
+www.huya.com##.popup-slide-in.small-handle-tip
 ||gdtimg.com
 ||gtimg.cn$domain=～sports.qq.com
