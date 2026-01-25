@@ -29,7 +29,7 @@ www.huya.com##.room-gg-top
 www.huya.com##.popup-slide-in.small-handle-tip
 
 ||gdtimg.com
-||gtimg.cn$domain=～sports.qq.com
+||gtimg.cn$domain=～qq.com
 
 ! Jan 22, 2026 https://www.v2ex.com
 www.v2ex.com###pro-campaign-container
