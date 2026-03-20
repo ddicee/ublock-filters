@@ -27,6 +27,7 @@ www.huya.com##.end-ab-container
 www.huya.com##.huya-ab
 www.huya.com##.room-gg-top
 www.huya.com##.popup-slide-in.small-handle-tip
+www.huya.com##.vertical.popup-slide-in.common-popup
 
 ||gdtimg.com
 ||gtimg.cn$domain=～qq.com
