@@ -34,3 +34,6 @@ www.huya.com##.vertical.popup-slide-in.common-popup
 
 ! Jan 22, 2026 https://www.v2ex.com
 www.v2ex.com###pro-campaign-container
+
+! May 30, 2026 https://sports.qq.com
+sports.qq.com##txpdiv[data-role="creative-player-pause-container"]
